@@ -14,8 +14,18 @@
  - 2.2 [spring中beanFactory和ApplicationContext的联系和区别](http://blog.csdn.net/hi_kevin/article/details/7325554)
  - 2.3 [spring注入的几种方式](http://blessht.iteye.com/blog/1162131)
  - 2.4 [spring如何实现事物管理的](http://blog.csdn.net/trigl/article/details/50968079)
- - 2.5 [springIOC和AOP的原理]()
+ - 2.5 [springIOC和AOP的原理](http://blog.csdn.net/luoshenfu001/article/details/5816408/)
 * 3 **多线程**
+ - 3.1 [Java创建线程之后，直接调用start()方法和run()的区别]()
+ - 3.2 [常用的线程池模式以及不同线程池的使用场景]()
+ - 3.3 [newFixedThreadPool此种线程池如果线程数达到最大值后会怎么办，底层原理。]()
+ - 3.4 []()
+ - 3.5 []()
+ - 3.6 []()
+ - 3.7 []()
+ - 3.8 []()
+ - 3.9 []()
+ - 3.10 []()
 * 4 **网络通信**
 * 5 **数据库MySql**
 * 6 **设计模式**
