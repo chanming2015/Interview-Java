@@ -16,8 +16,8 @@
  - 2.4 [spring如何实现事物管理的](http://blog.csdn.net/trigl/article/details/50968079)
  - 2.5 [springIOC和AOP的原理](http://blog.csdn.net/luoshenfu001/article/details/5816408/)
 * 3 **多线程**
- - 3.1 [Java创建线程之后，直接调用start()方法和run()的区别]()
- - 3.2 [常用的线程池模式以及不同线程池的使用场景]()
+ - 3.1 [Java创建线程之后，直接调用start()方法和run()的区别](http://blog.csdn.net/u010953266/article/details/46546543)
+ - 3.2 [常用的线程池模式以及不同线程池的使用场景](http://blog.csdn.net/u011479540/article/details/51867886)
  - 3.3 [newFixedThreadPool此种线程池如果线程数达到最大值后会怎么办，底层原理。]()
  - 3.4 []()
  - 3.5 []()
