@@ -1,7 +1,7 @@
 # Interview-Java
 * 1 **Java基础**
  - 1.1 [String类为什么是不可变的](01.1.md)
- - 1.2 [HashMap实现原理及源码分析](http://www.cnblogs.com/chengxiao/p/6059914.html)
+ - 1.2 [HashMap实现原理及源码分析](01.2.md)
  - 1.3 [反射中，Class.forName和classloader的区别](http://www.cnblogs.com/mangosoft/p/6485790.html)
  - 1.4 [session和cookie的区别和联系，session的生命周期，多个服务部署时session管理](http://blog.csdn.net/u012635819/article/details/50678602)
  - 1.5 [Java中的队列都有哪些，有什么区别](http://blog.csdn.net/madun/article/details/20313269)
